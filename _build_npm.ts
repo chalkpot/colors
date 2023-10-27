@@ -1,4 +1,4 @@
-// Copyright 2023 Chalkpot. All rights reserved. MIT license.
+// Copyright 2023 mineejo. All rights reserved. MIT license.
 
 import { build, emptyDir } from "https://deno.land/x/dnt/mod.ts";
 

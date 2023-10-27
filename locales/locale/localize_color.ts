@@ -1,4 +1,4 @@
-// Copyright 2023 Chalkpot. All rights reserved. MIT license.
+// Copyright 2023 mineejo. All rights reserved. MIT license.
 
 import * as locales from "../mod.ts";
 import { unformatLocaleCode } from "./unformat_locale_code.ts";

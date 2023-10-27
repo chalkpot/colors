@@ -1,4 +1,4 @@
-// Copyright 2023 Chalkpot. All rights reserved. MIT license.
+// Copyright 2023 mineejo. All rights reserved. MIT license.
 
 // Export of a locale consisting of duplicates like "ruru"
 // should have a shortened alternative, for example to "ru".
