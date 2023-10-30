@@ -31,7 +31,6 @@ other package managers or CDNs like `UNPKG`. For `Deno` reference see
 [module page], or use CDN like `esm.sh`.
 
 [NPM page]: https://www.npmjs.com/package/@chalkpot/colors
-
 [module page]: https://deno.land/x/chalkpot_colors
 
 ## Usage
