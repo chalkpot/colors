@@ -31,6 +31,7 @@ other package managers or CDNs like `UNPKG`. For `Deno` reference see
 [module page], or use CDN like `esm.sh`.
 
 [NPM page]: https://www.npmjs.com/package/@chalkpot/colors
+
 [module page]: https://deno.land/x/chalkpot_colors
 
 ## Usage
@@ -48,8 +49,6 @@ Extended colors are the result of merging specifications from HTML 4.01, CSS
 2.0, SVG 1.0 and CSS3 User Interfaces (CSS3 UI).
 
 ```javascript
-import { basicColors, colors } from "@chalkpot/test";
-
 /* {
  *   name: 'grey',
  *   hex: '#808080',
