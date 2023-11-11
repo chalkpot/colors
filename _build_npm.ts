@@ -1,6 +1,6 @@
 // Copyright 2023 mineejo. All rights reserved. MIT license.
 
-import { build, emptyDir } from "https://deno.land/x/dnt/mod.ts";
+import { build, emptyDir } from "https://deno.land/x/dnt@0.38.1/mod.ts";
 
 const outDir = "./.npm";
 
