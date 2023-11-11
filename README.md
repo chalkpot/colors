@@ -48,26 +48,26 @@ Extended colors are the result of merging specifications from HTML 4.01, CSS
 2.0, SVG 1.0 and CSS3 User Interfaces (CSS3 UI).
 
 ```javascript
-/* {
- *   name: 'grey',
- *   hex: '#808080',
- *   rgb: [ 128, 128, 128 ],
- *   localize: [Function: localize]
- * }
- */
 console.log(basicColors.grey);
-
 /* {
- *   name: 'darkgrey',
- *   hex: '#a9a9a9',
- *   rgb: [ 169, 169, 169 ],
+ *   name: "grey",
+ *   hex: "#808080",
+ *   rgb: [128, 128, 128],
  *   localize: [Function: localize]
  * }
  */
-console.log(colors.darkgrey);
 
-// dark grey
+console.log(colors.darkgrey);
+/* {
+ *   name: "darkgrey",
+ *   hex: "#a9a9a9",
+ *   rgb: [169, 169, 169],
+ *   localize: [Function: localize]
+ * }
+ */
+
 console.log(colors.darkgrey.localize("en-US"));
+// dark grey
 ```
 
 The localization function accepts a locale code: `be-BY`, `en-US`, `ru-RU`,
