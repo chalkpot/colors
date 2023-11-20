@@ -47,7 +47,7 @@ in 1999.
 Extended colors are the result of merging specifications from HTML 4.01, CSS
 2.0, SVG 1.0 and CSS3 User Interfaces (CSS3 UI).
 
-```javascript
+```ts
 console.log(basicColors.grey);
 /* {
  *   name: "grey",
