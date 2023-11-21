@@ -17,8 +17,8 @@ await build({
     name: "@chalkpot/colors",
     version: Deno.args[0],
     description:
-      "Colors is JSON with the names of colors, their values and localization. Colors\n" +
-      "are based on HTML color names and CSS keywords.",
+      "Colors is JSON with the names of colors, their values and localization. " +
+      "Colors are based on HTML color names and CSS keywords.",
     author: "mineejo",
     license: "MIT",
     homepage: "https://github.com/chalkpot/colors#readme",
