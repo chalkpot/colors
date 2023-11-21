@@ -19,10 +19,6 @@ can really give an understanding of color to the user and developer at the same
 time. It's easy to write "dark blue", but how will it be different from a unique
 color name if without the color itself, we don't know how dark that "blue" is?
 
-**Colors** tries to get away from abstraction by using a standard, giving
-usability with a combination of performance and development at the same time, as
-exemplified by the `i18n`... `No third-party dependencies`...
-
 ## Installation
 
 `CommonJS` (script directory) and `ModuleJS` (esm directory) support for
